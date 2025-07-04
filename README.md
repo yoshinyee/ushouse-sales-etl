@@ -78,8 +78,8 @@ Miami     | Condo           | 659301
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/house-sales-etl.git
-cd house-sales-etl
+git clone https://github.com/yoshinyee/ushouse-sales-etl.git
+cd ushouse-sales-etl
 ```
 
 ### 2. Install dependencies
