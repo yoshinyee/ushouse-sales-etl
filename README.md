@@ -132,9 +132,12 @@ pip install -r requirements.txt
 You can import output/house_sales.csv into Power BI for interactive visualizations.
 The ushouse.pbix file (if included) provides a sample dashboard with:
 
-Status count breakdown
-Average price by State
-Average Area (sqft) by property type and city
+-Status count breakdown
+
+-Average price by State
+
+-Average Area (sqft) by property type and city
+
 ![image](https://github.com/user-attachments/assets/e783bc7c-0631-4b77-84c9-1b40d2936336)
 
 ##  Author Notes
